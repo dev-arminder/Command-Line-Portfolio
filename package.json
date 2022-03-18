@@ -12,5 +12,12 @@
   },
   "dependencies": {
     "cli-welcome": "^2.2.2"
-  }
+  },
+  "keywords": [
+    "Arminder Singh",
+    "Arminder",
+    "Singh",
+    "dev-arminder",
+    "command Line Portfolio"
+  ]
 }
