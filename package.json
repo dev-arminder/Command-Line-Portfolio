@@ -19,5 +19,8 @@
     "Singh",
     "dev-arminder",
     "command Line Portfolio"
-  ]
+  ],
+  "license": "Unlicensed",
+  "main": "index.js",
+  "repository": "dev-arminder/Command-Line-Portfolio"
 }
