@@ -1,0 +1,7 @@
+{
+  "name": "dev-arminder",
+  "version": "1.0.0",
+  "bin": {
+    "dev-arminder": "index.js"
+  }
+}
