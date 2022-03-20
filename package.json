@@ -1,6 +1,6 @@
 {
   "name": "dev-arminder",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "Dev-arminder Command Line Portfolio.",
   "bin": {
     "dev-arminder": "index.js"
