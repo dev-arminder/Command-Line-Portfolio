@@ -13,21 +13,14 @@ const githubColor = chalk.hex("#6cc644");
 const linkedInBgColor = chalk.bgHex("#00a0dc");
 const linkedInColor = chalk.hex("#00a0dc");
 
+const init = require("./utils/init");
+
 const socialMedia = {
   github: "https://github.com/dev-arminder",
   linkedIn: "https://www.linkedin.com/in/arminder-singh-2b341a1a0/"
 };
 
-welcome({
-  title: packJSON.name,
-  tagLine: `Hey! It's great to see you Here.😎`,
-  version: `${packJSON.version}`,
-  description: packJSON.description,
-  bgColor: `#FADC00`,
-  color: `#000000`,
-  bold: true,
-  clear: true
-});
+init(welcome, packJSON);
 
 log(`
 ${bgBlue(" About ")} ${boldRed("Arminder Singh")} ${chalkGrey(
