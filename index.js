@@ -27,7 +27,7 @@ ${bgBlue(" About ")} ${boldRed("Arminder Singh")} ${chalkGrey(
   )}`);
   log(`
 ${chalkDim(
-  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  "Humanity First Frontend Engineer with Proven Experience with Dovelp, a UK-based startup that assists businesses and individuals in creating and maintaining the best online home for their businesses. Capable of learning from senior developers while working with and assisting junior developers."
 )}
 `);
 
